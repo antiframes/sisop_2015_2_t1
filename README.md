@@ -18,11 +18,15 @@ Uma thread deverá ser criada para ler o arquivo para um buffer, enquanto outras
 
 ## Material a ser entregue
 
+O material a ser entregue deve estar contido em um repositório privado do github que o professor possa clonar. Entreguem no Classrooom apenas o link para clonar o repositório, a "SSH Clone URL" (algo tipo git@github.com:compufpel/sisop_2015_2_t1.git).
+
+Dentro do repositório: 
+
 - Makefile que gere um executável <psearch>;
-- README.md descrevendo a implementação, como os problemas de paralelização e sincronização foram resolvidos, ambiente onde experimentos foram executados e apresentando resultados de tempo de execução e speedup para um número razoável de execuções; 
+- README.md contendo os nomes dos alunos e descrevendo a implementação, como os problemas de paralelização e sincronização foram resolvidos, ambiente onde experimentos foram executados e apresentando resultados de tempo de execução e speedup para um número razoável de execuções; 
 - Link para Google Drive com os casos de teste usados e os resultados esperados (acessível pelo professor);
 - Código fonte comentado;
-- E o próprio repositório com commits que façam sentido.
+- Commits que façam sentido e mostrem a participação de todos os integrantes do grupo.
 
 ## Data de entrega 
 
